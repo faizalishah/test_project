@@ -1,1 +1,2 @@
 This is some text in this new file.
+I am adding a new feature.
